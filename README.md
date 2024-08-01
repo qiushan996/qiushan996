@@ -32,8 +32,9 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=qiushan996&show_icons=true&hide_border=true" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%"  src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg"></code>
+<code><img width="10%"  src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<br />
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
