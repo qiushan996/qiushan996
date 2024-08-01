@@ -19,7 +19,7 @@
 #### :muscle: Things I am challenging myself with:
 - Take 30 minutes reading everyday and take notes
 - Learning Web development technique and AI techniques
-- Explore the media business
+- Explore the self-media business
 
 
 
