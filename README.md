@@ -10,11 +10,11 @@
 
 
 #### 🌱 Things I am currently working on: 
-- Improve your English speaking skills
+- Improving  my English speaking skills
 - Coding at least 5 hours a day
-- Do some security research and exercises, including vulnerability and virus analysis
+- Doing some security research and exercises, including vulnerability and virus analysis
 - Settling in a brand new place in North America
-
+- 
 
 #### :muscle: Things I am challenging myself with:
 - Take 30 minutes reading everyday and take notes
@@ -23,7 +23,8 @@
 
 
 
-
+<br />
+<br />
 #### :computer: Programming languages and tools: 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=qiushan996&show_icons=true&hide_border=true" />
