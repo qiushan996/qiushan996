@@ -6,7 +6,7 @@
 
 #### Welcome to my Github page! I am Shan Qiu and I have five years of experience in network security and am interested in software development! 
 
-<img align="right" alt="img" src="http://secknow.cn/images/profile.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://blog-pic-1257926085.cos.ap-shanghai.myqcloud.com/img/background.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
