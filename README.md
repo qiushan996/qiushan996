@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I’m Alex
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/qiushan996)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henry-zhang-aa7528243/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qiang-zhang-aa7528243/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hanxin1942@gmail.com)
 
 💌 Feel free to reach out or collaborate!
@@ -10,7 +10,7 @@
 🔍 Currently building skills in red teaming, evasion techniques, and adversary simulation.  
 📍 Based in Canada 🇨🇦 | Open to Penetration Tester / Security Analyst roles
 
----
+
 
 ## 💡 Skills & Interests
 - Penetration Testing (Web, Network, AD)
@@ -31,7 +31,6 @@
 | [PentestBook Guide](https://github.com/qiushan996/PentestBooks) | Guide to building an Pentesting skills|
 | [Pentesting writeups](https://github.com/qiushan996/PentestWriteups) | HTB / THM /OSCP write-ups and CTF solutions |
 
----
 
 
 
