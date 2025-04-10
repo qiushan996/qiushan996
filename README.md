@@ -19,6 +19,10 @@
 - Binary Exploitation, Vulnerability Research
 - Python | Bash | PowerShell | C
 
+## 🧠 Certifications & Labs
+
+- OSCP (In Progress)  
+- Active: HackTheBox | TryHackMe | VulnHub
 
 ## 📂 Featured Repositories
 
@@ -29,12 +33,9 @@
 
 ---
 
-## 🧠 Certifications & Labs
 
-- OSCP (In Progress)  
-- Active: HackTheBox | TryHackMe | VulnHub
 
-<br />
+<!-- <br />
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=qiushan996&show_icons=true&hide_border=true" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
@@ -48,7 +49,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/virustotal/virustotal-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <br />
-</p>
+</p> -->
 
 
 
